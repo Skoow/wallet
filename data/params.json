@@ -1,7 +1,7 @@
 {
  "choix": [
   "s/msft",
-  "s/cdns",
+  "s/eme",
   "s/klac",
   "s/tmus",
   "s/ma",
@@ -12,7 +12,7 @@
   "s/shw"
  ],
  "cmp": 1,
- "v": 27,
+ "v": 28,
  "extra": {
   "s/anet": {
    "ticker": "ANET",
@@ -205,13 +205,13 @@
    "date": "2026-11-20",
    "heure": "",
    "sens": "achat",
-   "cle": "s/cdns",
-   "ticker": "CDNS",
-   "nom": "Cadence",
+   "cle": "s/eme",
+   "ticker": "EME",
+   "nom": "EMCOR",
    "quantite": 1,
-   "prix": 281.58,
+   "prix": 603.32,
    "devise": "USD",
-   "montant_eur": 256.21,
+   "montant_eur": 548.97,
    "frais_eur": 0,
    "conseil": true
   },
